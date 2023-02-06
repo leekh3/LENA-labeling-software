@@ -1,1 +1,0 @@
-# LENA-labeling-software
